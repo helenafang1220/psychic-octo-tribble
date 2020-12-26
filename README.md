@@ -1,2 +1,2 @@
 # psychic-octo-tribble
-Try Try can
+Hello, I'm a coding newbie. B)
